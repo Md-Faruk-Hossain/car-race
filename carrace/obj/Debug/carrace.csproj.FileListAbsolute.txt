@@ -1,0 +1,10 @@
+E:\project\carrace\carrace\bin\Debug\carrace.exe.config
+E:\project\carrace\carrace\bin\Debug\carrace.exe
+E:\project\carrace\carrace\bin\Debug\carrace.pdb
+E:\project\carrace\carrace\obj\Debug\carrace.csproj.AssemblyReference.cache
+E:\project\carrace\carrace\obj\Debug\carrace.Properties.Resources.resources
+E:\project\carrace\carrace\obj\Debug\carrace.csproj.GenerateResource.cache
+E:\project\carrace\carrace\obj\Debug\carrace.csproj.CoreCompileInputs.cache
+E:\project\carrace\carrace\obj\Debug\carrace.exe
+E:\project\carrace\carrace\obj\Debug\carrace.pdb
+E:\project\carrace\carrace\obj\Debug\carrace.from1.resources
